@@ -1,4 +1,4 @@
-#R in Action
+# R in Action
 
 This was the second book I worked though when I was first learning R.
 
