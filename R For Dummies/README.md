@@ -1,4 +1,4 @@
-#R For Dummies
+# R For Dummies
 
 This was the first book I worked though when I began to learn R, after I'd enjoyed Statistics and Statistics II for Dummies.
 
