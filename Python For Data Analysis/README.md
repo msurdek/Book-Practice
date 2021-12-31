@@ -1,4 +1,4 @@
-#Python for Data Analysis
+# Python for Data Analysis
 
 I read this book when I took a python course for my Master's program and was a few months away from starting the co-op where I knew I would work in python.
 
