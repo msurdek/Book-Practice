@@ -1,4 +1,4 @@
-# ProgrammingPractice
+# ProgrammingBooks
 Code and other files I used while working through chapters and examples from various R & Python books.
 
 R for Dummies: Fall 2019
